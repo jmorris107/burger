@@ -33,7 +33,7 @@ Attempt to complete homework assignment as described in instructions. If unable 
 # Usage
 💻 Open [Heroku](https://burger--handlebars.herokuapp.com/burgers) link, write your burger menue, click "submite," and then,click "Devour it!".  
 
-![burger](pulic/assets/images/burger.jpg) 
+![burger](public/assets/images/burger.jpg) 
   
 # Links
 :atom_symbol: [Heroku](https://burger--handlebars.herokuapp.com/burgers)<br />
