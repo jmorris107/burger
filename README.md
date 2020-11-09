@@ -37,10 +37,10 @@ are required for this homework. In addition, add this homework to your portfolio
 ```
 
 # Installation
-🗳 <code>Node.js</code>,<code>npm install</code>,<code>npm install express</code>,<code> Heroku</code><code>npm install express-handlebars</code><code>npm install mysql</code><code>JawsDB</code>
+🗳 <code>Node.js</code>,<code>npm install</code>,<code>npm install express</code>,<code> Heroku</code>,<code>npm install express-handlebars</code>,<code>npm install mysql</code>,<code>JawsDB</code>
 
 # Usage
-💻 Open [Heroku](https://burger--handlebars.herokuapp.com/burgers) link, write your burger menue, click "submite," and then,click "Devour it!".  
+💻 Open [Heroku](https://burger--handlebars.herokuapp.com/burgers) link, write your burger menue, click "submit," and then,click "Devour it!".  
 
 ![burger](public/assets/images/burger.jpg) 
   
