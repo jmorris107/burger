@@ -2,9 +2,9 @@
 
   ![node badge](https://img.shields.io/badge/node-v12.19.0-green.svg)
   ![repo size badge](https://img.shields.io/badge/reposize-1.94MB-blue.svg)
-  ![javascript size badge](https://img.shields.io/badge/javascriptsize-63.8-yelloq.svg)
-  ![handlebars size badge](https://img.shields.io/badge/handlebarsize-25.0-orange.svg)
-  ![css size badge](https://img.shields.io/badge/csssize-11.2-blue.svg)
+  ![javascript size badge](https://img.shields.io/badge/javascriptsize-63.8%-yelloq.svg)
+  ![handlebars size badge](https://img.shields.io/badge/handlebarsize-25.0%-orange.svg)
+  ![css size badge](https://img.shields.io/badge/csssize-11.2-purple%.svg)
 
   ![Javascript badge](https://img.shields.io/badge/JavaScript-yellow.svg)
   ![jQuery badge](https://img.shields.io/badge/jQuery-blue.svg)
