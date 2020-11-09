@@ -11,7 +11,7 @@
   ![node.js badge](https://img.shields.io/badge/node.js-green.svg)
   ![express.js](https://img.shields.io/badge/express.js-red.svg)
   ![json](https://img.shields.io/badge/json-orange.svg)
-  ![MySQL](https://img.shields.io/badge/MySQL-red.svg)
+  ![MySQL](https://img.shields.io/badge/MySQL-blue.svg)
   ![Handlebars](https://img.shields.io/badge/Handlebars-orange.svg)
 
  
