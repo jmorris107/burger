@@ -1,13 +1,18 @@
 # 🍔 burger 🍔
 
   ![node badge](https://img.shields.io/badge/node-v12.19.0-green.svg)
-  ![repo size badge](https://img.shields.io/badge/reposize-57KB-blue.svg)
+  ![repo size badge](https://img.shields.io/badge/repo-size-1.94MB-blue.svg)
+  ![javascript size badge](https://img.shields.io/badge/javascript-size-63.8-yelloq.svg)
+  ![handlebars size badge](https://img.shields.io/badge/handlebar-size-25.0-orange.svg)
+  ![css size badge](https://img.shields.io/badge/css-size-11.2-blue.svg)
 
   ![Javascript badge](https://img.shields.io/badge/JavaScript-yellow.svg)
   ![jQuery badge](https://img.shields.io/badge/jQuery-blue.svg)
   ![node.js badge](https://img.shields.io/badge/node.js-green.svg)
   ![express.js](https://img.shields.io/badge/express.js-red.svg)
   ![json](https://img.shields.io/badge/json-orange.svg)
+  ![MySQL](https://img.shields.io/badge/MySQL-red.svg)
+  ![Handlebars](https://img.shields.io/badge/Handlebars-orange.svg)
 
  
   
