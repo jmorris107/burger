@@ -2,8 +2,8 @@
 
   ![node badge](https://img.shields.io/badge/node-v12.19.0-green.svg)
   ![repo size badge](https://img.shields.io/badge/repo.size-1.94MB-blue.svg)
-  ![javascript size badge](https://img.shields.io/badge/javascript.size-63.8-yelloq.svg)
-  ![handlebars size badge](https://img.shields.io/badge/handlebar.size-25.0-orange.svg)
+  ![javascript size badge](https://img.shields.io/badge/javascript.size-63.8-yellow.svg)
+  ![handlebars size badge](https://img.shields.io/badge/handlebars.size-25.0-orange.svg)
   ![css size badge](https://img.shields.io/badge/css.size-11.2-purple.svg)
 
   ![Javascript badge](https://img.shields.io/badge/JavaScript-yellow.svg)
