@@ -13,6 +13,7 @@
   ![json](https://img.shields.io/badge/json-orange.svg)
   ![MySQL](https://img.shields.io/badge/MySQL-blue.svg)
   ![Handlebars](https://img.shields.io/badge/Handlebars-orange.svg)
+  ![JawsDB](https://img.shields.io/badge/JawsDB-lightblue.svg)
 
  
   
