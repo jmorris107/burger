@@ -1,6 +1,4 @@
-# burger
-
-# Express.js-Note-Taker
+# 🍔 burger 🍔
 
   ![node badge](https://img.shields.io/badge/node-v12.19.0-green.svg)
   ![repo size badge](https://img.shields.io/badge/reposize-57KB-blue.svg)
